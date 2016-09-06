@@ -1,2 +1,3 @@
 # hello-world
-test blah
+
+Hello this is a test of git hub for a university practical.
